@@ -14,7 +14,8 @@ Simple tool for convert your **JSON** file into **MSSQL** table
 ### Usage
 ```
 [-t] [<DB table name>]: insert JSON file name from scrapy output
-[-o] [Name output file]: Export data
+
+python main.py -t Colors.json
 ```
 
 ## Example
