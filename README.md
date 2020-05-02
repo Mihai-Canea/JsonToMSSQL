@@ -9,8 +9,6 @@
 ### About
 Simple tool for convert your **JSON** file into **MSSQL** table
 
-**IMPORTANT**: in this project you can convert JSON file from [Scrapy](https://docs.scrapy.org/en/latest/) output
-
 ### Usage
 ```
 [-t] [<DB table name>]: insert JSON file name from scrapy output
